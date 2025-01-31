@@ -1,0 +1,2 @@
+# Handling Null Values in JavaScript
+This example shows a common error in JavaScript:  not explicitly handling null values.  The `foo` function demonstrates best practice by checking for null inputs and returning null if either input is null.  This prevents unexpected behavior or errors.
